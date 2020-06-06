@@ -41525,7 +41525,7 @@ if($.a_Y()){D.Wb(new P.V(800,600))
 D.Wa(new P.V(800,600))}}}}
 F.wX.prototype={
 F:function(a){var t=null,s=X.Vl(t,"Nunito",C.oG,C.j),r=X.Vl(t,"Nunito",C.oG,C.j)
-return new S.p0(new A.ot(D.a2U(),t),"Something About Mishra AjaY..",s,r,!1,t)}}
+return new S.p0(new A.ot(D.a2U(),t),"AJAY MISHRA - RESUME",s,r,!1,t)}}
 F.ho.prototype={
 F:function(a){var t,s=u.cR
 s=H.a([new U.m8("color1",H.a([],s)).jE(0,P.cn(0,0,3),new R.dv(new P.B(4287238458),C.vS.h(0,900))),new U.m8("color2",H.a([],s)).jE(0,P.cn(0,0,3),new R.dv(new P.B(4282647062),C.oC.h(0,600)))],u.eB)
