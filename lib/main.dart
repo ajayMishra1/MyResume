@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Something About Mishra AjaY..',
+      title: 'AJAY MISHRA - RESUME',
       theme: ThemeData(
         primarySwatch: Colors.blueGrey,
         fontFamily: 'Nunito',
